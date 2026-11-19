@@ -1,0 +1,3787 @@
+[
+  {
+    "slug": "sony-ps5-slim-digital",
+    "name": "PlayStation 5 Slim Digital Edition",
+    "brand": "Sony",
+    "category": "console",
+    "platforms": [
+      "ps5"
+    ],
+    "bias": "competitive",
+    "quality": 82,
+    "summary": "Disc-free PS5 Slim. Leaves more of a tight budget for a screen or headset. GTA 6 is a digital purchase on this model.",
+    "specs": [
+      {
+        "label": "Storage",
+        "value": "1 TB SSD"
+      },
+      {
+        "label": "Disc drive",
+        "value": "None"
+      },
+      {
+        "label": "Output",
+        "value": "Up to 4K"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "sony-ps5-slim-digital-amazon",
+        "productSlug": "sony-ps5-slim-digital",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 44900,
+        "seedPriceCents": 44900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=PlayStation%205%20Slim%20Digital%20Edition",
+        "inStock": true,
+        "externalSku": "sample-sony-ps5-slim-digital-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 46247,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 44002,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 44451,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 45349,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 44900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-ps5-slim-digital-bestbuy",
+        "productSlug": "sony-ps5-slim-digital",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 44900,
+        "seedPriceCents": 44900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=PlayStation%205%20Slim%20Digital%20Edition",
+        "inStock": true,
+        "externalSku": "sample-sony-ps5-slim-digital-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 45349,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 46247,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 43553,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 44451,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 44900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-ps5-slim-digital-walmart",
+        "productSlug": "sony-ps5-slim-digital",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 45900,
+        "seedPriceCents": 45900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=PlayStation%205%20Slim%20Digital%20Edition",
+        "inStock": true,
+        "externalSku": "sample-sony-ps5-slim-digital-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 46818,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 44523,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 45441,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 46359,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 45900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sony-ps5-slim-disc",
+    "name": "PlayStation 5 Slim Disc Edition",
+    "brand": "Sony",
+    "category": "console",
+    "platforms": [
+      "ps5"
+    ],
+    "bias": "cinematic",
+    "quality": 88,
+    "summary": "PS5 Slim with a 4K Blu-ray drive. The sample catalog treats this as the cinematic PS5 because it also plays discs.",
+    "specs": [
+      {
+        "label": "Storage",
+        "value": "1 TB SSD"
+      },
+      {
+        "label": "Disc drive",
+        "value": "4K UHD Blu-ray"
+      },
+      {
+        "label": "Output",
+        "value": "Up to 4K"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "sony-ps5-slim-disc-amazon",
+        "productSlug": "sony-ps5-slim-disc",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 49900,
+        "seedPriceCents": 49900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=PlayStation%205%20Slim%20Disc%20Edition",
+        "inStock": true,
+        "externalSku": "sample-sony-ps5-slim-disc-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 50898,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 48902,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 51397,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-ps5-slim-disc-bestbuy",
+        "productSlug": "sony-ps5-slim-disc",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 49900,
+        "seedPriceCents": 49900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=PlayStation%205%20Slim%20Disc%20Edition",
+        "inStock": true,
+        "externalSku": "sample-sony-ps5-slim-disc-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 51397,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 50399,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 48902,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-ps5-slim-disc-target",
+        "productSlug": "sony-ps5-slim-disc",
+        "retailer": "target",
+        "program": "target",
+        "priceCents": 49900,
+        "seedPriceCents": 49900,
+        "currency": "USD",
+        "url": "https://www.target.com/s?searchTerm=PlayStation%205%20Slim%20Disc%20Edition",
+        "inStock": true,
+        "externalSku": "sample-sony-ps5-slim-disc-target",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 51397,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 48902,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 50898,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "xbox-series-x",
+    "name": "Xbox Series X",
+    "brand": "Microsoft",
+    "category": "console",
+    "platforms": [
+      "xbox"
+    ],
+    "bias": "cinematic",
+    "quality": 90,
+    "summary": "Flagship Xbox in this sample catalog. 4K target and a disc drive. The right Series console when the screen budget can survive a $499 box.",
+    "specs": [
+      {
+        "label": "Storage",
+        "value": "1 TB SSD"
+      },
+      {
+        "label": "Disc drive",
+        "value": "4K UHD Blu-ray"
+      },
+      {
+        "label": "Output",
+        "value": "Up to 4K"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "xbox-series-x-amazon",
+        "productSlug": "xbox-series-x",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 49900,
+        "seedPriceCents": 49900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Xbox%20Series%20X",
+        "inStock": true,
+        "externalSku": "sample-xbox-series-x-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 51397,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 50399,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49401,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 48403,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-series-x-bestbuy",
+        "productSlug": "xbox-series-x",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 49900,
+        "seedPriceCents": 49900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Xbox%20Series%20X",
+        "inStock": true,
+        "externalSku": "sample-xbox-series-x-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 48403,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 50898,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 50399,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49401,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 49900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-series-x-walmart",
+        "productSlug": "xbox-series-x",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 51900,
+        "seedPriceCents": 51900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Xbox%20Series%20X",
+        "inStock": true,
+        "externalSku": "sample-xbox-series-x-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 50343,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 52938,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 51900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 50862,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 51900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "xbox-series-s",
+    "name": "Xbox Series S",
+    "brand": "Microsoft",
+    "category": "console",
+    "platforms": [
+      "xbox"
+    ],
+    "bias": "competitive",
+    "quality": 70,
+    "summary": "Smallest Xbox that runs the Series generation. Digital only, and the storage is tight for a game the size of GTA 6, so pair it with the expansion card if you can.",
+    "specs": [
+      {
+        "label": "Storage",
+        "value": "512 GB SSD"
+      },
+      {
+        "label": "Disc drive",
+        "value": "None"
+      },
+      {
+        "label": "Output",
+        "value": "Up to 1440p target"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "xbox-series-s-amazon",
+        "productSlug": "xbox-series-s",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 34900,
+        "seedPriceCents": 34900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Xbox%20Series%20S",
+        "inStock": true,
+        "externalSku": "sample-xbox-series-s-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 35598,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 33853,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 34202,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 34900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 34900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-series-s-walmart",
+        "productSlug": "xbox-series-s",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 32900,
+        "seedPriceCents": 32900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Xbox%20Series%20S",
+        "inStock": true,
+        "externalSku": "sample-xbox-series-s-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 32571,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 33229,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 33887,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 32242,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 32900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-series-s-bestbuy",
+        "productSlug": "xbox-series-s",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 34900,
+        "seedPriceCents": 34900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Xbox%20Series%20S",
+        "inStock": true,
+        "externalSku": "sample-xbox-series-s-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 34551,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 35249,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 35598,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 33853,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 34900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lg-c4-42",
+    "name": "LG C4 42-inch OLED TV",
+    "brand": "LG",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "cinematic",
+    "quality": 96,
+    "summary": "42-inch OLED. The sample catalog's premium cinematic screen: high contrast for night driving, and still small enough for a desk.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "42 inch"
+      },
+      {
+        "label": "Panel",
+        "value": "OLED"
+      },
+      {
+        "label": "Refresh",
+        "value": "120 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "lg-c4-42-amazon",
+        "productSlug": "lg-c4-42",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 99600,
+        "seedPriceCents": 99600,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=LG%20C4%2042-inch%20OLED%20TV",
+        "inStock": true,
+        "externalSku": "sample-lg-c4-42-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 97608,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 98604,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 101592,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 99600,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 99600,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-42-bestbuy",
+        "productSlug": "lg-c4-42",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 104900,
+        "seedPriceCents": 104900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG%20C4%2042-inch%20OLED%20TV",
+        "inStock": true,
+        "externalSku": "sample-lg-c4-42-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 101753,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 106998,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 104900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 102802,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 104900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "lg-c4-42-walmart",
+        "productSlug": "lg-c4-42",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 97900,
+        "seedPriceCents": 97900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=LG%20C4%2042-inch%20OLED%20TV",
+        "inStock": true,
+        "externalSku": "sample-lg-c4-42-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 95942,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 100837,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 99858,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 97900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 97900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "tcl-qm7-55",
+    "name": "TCL QM7 55-inch TV",
+    "brand": "TCL",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "cinematic",
+    "quality": 84,
+    "summary": "55-inch mini-LED in the sample catalog. The mid cinematic pick when an OLED does not fit the screen allocation.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "55 inch"
+      },
+      {
+        "label": "Panel",
+        "value": "Mini-LED"
+      },
+      {
+        "label": "Refresh",
+        "value": "120 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "tcl-qm7-55-amazon",
+        "productSlug": "tcl-qm7-55",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 54800,
+        "seedPriceCents": 54800,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=TCL%20QM7%2055-inch%20TV",
+        "inStock": true,
+        "externalSku": "sample-tcl-qm7-55-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 53156,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 55896,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 54800,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 53704,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 54800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "tcl-qm7-55-bestbuy",
+        "productSlug": "tcl-qm7-55",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 57900,
+        "seedPriceCents": 57900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=TCL%20QM7%2055-inch%20TV",
+        "inStock": true,
+        "externalSku": "sample-tcl-qm7-55-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 57321,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 56163,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 59637,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 58479,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 57900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "tcl-qm7-55-walmart",
+        "productSlug": "tcl-qm7-55",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 52900,
+        "seedPriceCents": 52900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=TCL%20QM7%2055-inch%20TV",
+        "inStock": true,
+        "externalSku": "sample-tcl-qm7-55-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 51842,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 54487,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 53429,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 52371,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 52900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sony-bravia-x90l-55",
+    "name": "Sony Bravia X90L 55-inch TV",
+    "brand": "Sony",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "cinematic",
+    "quality": 80,
+    "summary": "55-inch full-array LED. A cinematic living-room panel in the sample catalog, priced between the TCL and the OLED.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "55 inch"
+      },
+      {
+        "label": "Panel",
+        "value": "Full-array LED"
+      },
+      {
+        "label": "Refresh",
+        "value": "120 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "sony-bravia-x90l-55-amazon",
+        "productSlug": "sony-bravia-x90l-55",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 69800,
+        "seedPriceCents": 69800,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Sony%20Bravia%20X90L%2055-inch%20TV",
+        "inStock": true,
+        "externalSku": "sample-sony-bravia-x90l-55-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 67706,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 71196,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 70498,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 69102,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 69800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-bravia-x90l-55-bestbuy",
+        "productSlug": "sony-bravia-x90l-55",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 74800,
+        "seedPriceCents": 74800,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Sony%20Bravia%20X90L%2055-inch%20TV",
+        "inStock": true,
+        "externalSku": "sample-sony-bravia-x90l-55-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 77044,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 75548,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 74052,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 72556,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 74800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-bravia-x90l-55-target",
+        "productSlug": "sony-bravia-x90l-55",
+        "retailer": "target",
+        "program": "target",
+        "priceCents": 67900,
+        "seedPriceCents": 67900,
+        "currency": "USD",
+        "url": "https://www.target.com/s?searchTerm=Sony%20Bravia%20X90L%2055-inch%20TV",
+        "inStock": true,
+        "externalSku": "sample-sony-bravia-x90l-55-target",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 68579,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 69937,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 65863,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 67221,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 67900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "samsung-odyssey-g6-27",
+    "name": "Samsung Odyssey G6 27-inch",
+    "brand": "Samsung",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 88,
+    "summary": "27-inch 240 Hz QHD monitor. Strong competitive pick. GTA 6 itself will not run at 240 fps on a console; the headroom is for other games.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "27 inch"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560x1440"
+      },
+      {
+        "label": "Refresh",
+        "value": "240 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "samsung-odyssey-g6-27-amazon",
+        "productSlug": "samsung-odyssey-g6-27",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 32900,
+        "seedPriceCents": 32900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Samsung%20Odyssey%20G6%2027-inch",
+        "inStock": true,
+        "externalSku": "sample-samsung-odyssey-g6-27-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 33558,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 31913,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 32242,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 32900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 32900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "samsung-odyssey-g6-27-bestbuy",
+        "productSlug": "samsung-odyssey-g6-27",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 34900,
+        "seedPriceCents": 34900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung%20Odyssey%20G6%2027-inch",
+        "inStock": true,
+        "externalSku": "sample-samsung-odyssey-g6-27-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 34551,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 35249,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 35598,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 33853,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 34900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "samsung-odyssey-g6-27-walmart",
+        "productSlug": "samsung-odyssey-g6-27",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 31900,
+        "seedPriceCents": 31900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Samsung%20Odyssey%20G6%2027-inch",
+        "inStock": true,
+        "externalSku": "sample-samsung-odyssey-g6-27-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 31262,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 31900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 32538,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 30943,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 31900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "lg-27gp850",
+    "name": "LG UltraGear 27GP850-B",
+    "brand": "LG",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 80,
+    "summary": "27-inch 180 Hz QHD monitor. A mid competitive screen in the sample catalog.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "27 inch"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560x1440"
+      },
+      {
+        "label": "Refresh",
+        "value": "180 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "lg-27gp850-amazon",
+        "productSlug": "lg-27gp850",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 27900,
+        "seedPriceCents": 27900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=LG%20UltraGear%2027GP850-B",
+        "inStock": true,
+        "externalSku": "sample-lg-27gp850-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 28179,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 28737,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 27342,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 27900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 27900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "lg-27gp850-bestbuy",
+        "productSlug": "lg-27gp850",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 29900,
+        "seedPriceCents": 29900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=LG%20UltraGear%2027GP850-B",
+        "inStock": true,
+        "externalSku": "sample-lg-27gp850-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 29003,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 29601,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 30199,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 30797,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 29900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "lg-27gp850-walmart",
+        "productSlug": "lg-27gp850",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 26900,
+        "seedPriceCents": 26900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=LG%20UltraGear%2027GP850-B",
+        "inStock": true,
+        "externalSku": "sample-lg-27gp850-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 26631,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 27169,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 27438,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 26093,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 26900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dell-g2724d",
+    "name": "Dell G2724D 27-inch",
+    "brand": "Dell",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 76,
+    "summary": "27-inch 165 Hz QHD monitor. The value competitive screen once the console has taken the first slice of the budget.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "27 inch"
+      },
+      {
+        "label": "Resolution",
+        "value": "2560x1440"
+      },
+      {
+        "label": "Refresh",
+        "value": "165 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "dell-g2724d-amazon",
+        "productSlug": "dell-g2724d",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 19900,
+        "seedPriceCents": 19900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Dell%20G2724D%2027-inch",
+        "inStock": true,
+        "externalSku": "sample-dell-g2724d-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 20298,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19701,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19303,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "dell-g2724d-bestbuy",
+        "productSlug": "dell-g2724d",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 21900,
+        "seedPriceCents": 21900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Dell%20G2724D%2027-inch",
+        "inStock": true,
+        "externalSku": "sample-dell-g2724d-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 21243,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22338,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 21900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 21462,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 21900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "dell-g2724d-walmart",
+        "productSlug": "dell-g2724d",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 18900,
+        "seedPriceCents": 18900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Dell%20G2724D%2027-inch",
+        "inStock": true,
+        "externalSku": "sample-dell-g2724d-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 19467,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19089,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18522,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "aoc-24g4",
+    "name": "AOC 24G4 24-inch",
+    "brand": "AOC",
+    "category": "display",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 64,
+    "summary": "24-inch 165 Hz 1080p monitor. The cheapest display in the sample catalog. Fine for a desk, small for a cinematic open world.",
+    "specs": [
+      {
+        "label": "Size",
+        "value": "24 inch"
+      },
+      {
+        "label": "Resolution",
+        "value": "1920x1080"
+      },
+      {
+        "label": "Refresh",
+        "value": "165 Hz"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "aoc-24g4-amazon",
+        "productSlug": "aoc-24g4",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 12900,
+        "seedPriceCents": 12900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=AOC%2024G4%2024-inch",
+        "inStock": true,
+        "externalSku": "sample-aoc-24g4-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 12900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13158,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 12513,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 12771,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 12900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "aoc-24g4-bestbuy",
+        "productSlug": "aoc-24g4",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 13900,
+        "seedPriceCents": 13900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=AOC%2024G4%2024-inch",
+        "inStock": true,
+        "externalSku": "sample-aoc-24g4-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 14317,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13622,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14178,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "aoc-24g4-walmart",
+        "productSlug": "aoc-24g4",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 11900,
+        "seedPriceCents": 11900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=AOC%2024G4%2024-inch",
+        "inStock": true,
+        "externalSku": "sample-aoc-24g4-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 12019,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 12257,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 11543,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 11781,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 11900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sony-pulse-elite",
+    "name": "PlayStation Pulse Elite",
+    "brand": "Sony",
+    "category": "headset",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 78,
+    "summary": "PS5 wireless headset with a planar magnetic driver. Not an Xbox headset. Sits just over the $100 line in this sample catalog.",
+    "specs": [
+      {
+        "label": "Connection",
+        "value": "PlayStation Link / USB"
+      },
+      {
+        "label": "Platform",
+        "value": "PS5 and PC"
+      },
+      {
+        "label": "Mic",
+        "value": "Retractable"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "sony-pulse-elite-amazon",
+        "productSlug": "sony-pulse-elite",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 14800,
+        "seedPriceCents": 14800,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=PlayStation%20Pulse%20Elite",
+        "inStock": true,
+        "externalSku": "sample-sony-pulse-elite-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 14948,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15244,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14504,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14800,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-pulse-elite-bestbuy",
+        "productSlug": "sony-pulse-elite",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 14800,
+        "seedPriceCents": 14800,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=PlayStation%20Pulse%20Elite",
+        "inStock": true,
+        "externalSku": "sample-sony-pulse-elite-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 14652,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14948,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15244,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14504,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-pulse-elite-walmart",
+        "productSlug": "sony-pulse-elite",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 13900,
+        "seedPriceCents": 13900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=PlayStation%20Pulse%20Elite",
+        "inStock": true,
+        "externalSku": "sample-sony-pulse-elite-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 13483,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13761,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14178,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "steelseries-arctis-nova-7",
+    "name": "SteelSeries Arctis Nova 7",
+    "brand": "SteelSeries",
+    "category": "headset",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 82,
+    "summary": "Wireless headset that works on both consoles and PC. The sample catalog's default long-session pick when the budget is not chasing a specialist.",
+    "specs": [
+      {
+        "label": "Connection",
+        "value": "2.4 GHz wireless"
+      },
+      {
+        "label": "Platform",
+        "value": "PS5, Xbox, PC"
+      },
+      {
+        "label": "Battery",
+        "value": "About 30 hours"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "steelseries-arctis-nova-7-amazon",
+        "productSlug": "steelseries-arctis-nova-7",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 16900,
+        "seedPriceCents": 16900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=SteelSeries%20Arctis%20Nova%207",
+        "inStock": true,
+        "externalSku": "sample-steelseries-arctis-nova-7-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 17407,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17069,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16562,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "steelseries-arctis-nova-7-bestbuy",
+        "productSlug": "steelseries-arctis-nova-7",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 17900,
+        "seedPriceCents": 17900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=SteelSeries%20Arctis%20Nova%207",
+        "inStock": true,
+        "externalSku": "sample-steelseries-arctis-nova-7-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 18437,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18079,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17721,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17363,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "steelseries-arctis-nova-7-target",
+        "productSlug": "steelseries-arctis-nova-7",
+        "retailer": "target",
+        "program": "target",
+        "priceCents": 15900,
+        "seedPriceCents": 15900,
+        "currency": "USD",
+        "url": "https://www.target.com/s?searchTerm=SteelSeries%20Arctis%20Nova%207",
+        "inStock": true,
+        "externalSku": "sample-steelseries-arctis-nova-7-target",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 15741,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16059,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16218,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15423,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "hyperx-cloud-iii",
+    "name": "HyperX Cloud III",
+    "brand": "HyperX",
+    "category": "headset",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 74,
+    "summary": "Wired headset under $100 in this sample catalog. Comfortable for long sessions and works on both consoles.",
+    "specs": [
+      {
+        "label": "Connection",
+        "value": "Wired 3.5 mm / USB"
+      },
+      {
+        "label": "Platform",
+        "value": "PS5, Xbox, PC"
+      },
+      {
+        "label": "Mic",
+        "value": "Detachable"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "hyperx-cloud-iii-amazon",
+        "productSlug": "hyperx-cloud-iii",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 9900,
+        "seedPriceCents": 9900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=HyperX%20Cloud%20III",
+        "inStock": true,
+        "externalSku": "sample-hyperx-cloud-iii-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 9603,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 10098,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9702,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "hyperx-cloud-iii-bestbuy",
+        "productSlug": "hyperx-cloud-iii",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 9900,
+        "seedPriceCents": 9900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=HyperX%20Cloud%20III",
+        "inStock": true,
+        "externalSku": "sample-hyperx-cloud-iii-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 9999,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9801,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9702,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 10197,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "hyperx-cloud-iii-walmart",
+        "productSlug": "hyperx-cloud-iii",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 8900,
+        "seedPriceCents": 8900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=HyperX%20Cloud%20III",
+        "inStock": false,
+        "externalSku": "sample-hyperx-cloud-iii-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 8722,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9167,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8989,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8811,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "turtle-beach-stealth-600",
+    "name": "Turtle Beach Stealth 600 Gen 3",
+    "brand": "Turtle Beach",
+    "category": "headset",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 68,
+    "summary": "Wireless headset under $100 in the sample catalog. The budget wireless option for couch play.",
+    "specs": [
+      {
+        "label": "Connection",
+        "value": "Wireless"
+      },
+      {
+        "label": "Platform",
+        "value": "PS5, Xbox, PC"
+      },
+      {
+        "label": "Mic",
+        "value": "Flip-to-mute"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "turtle-beach-stealth-600-amazon",
+        "productSlug": "turtle-beach-stealth-600",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 7900,
+        "seedPriceCents": 7900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Turtle%20Beach%20Stealth%20600%20Gen%203",
+        "inStock": true,
+        "externalSku": "sample-turtle-beach-stealth-600-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 7900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8058,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7663,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7821,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "turtle-beach-stealth-600-bestbuy",
+        "productSlug": "turtle-beach-stealth-600",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 7900,
+        "seedPriceCents": 7900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Turtle%20Beach%20Stealth%20600%20Gen%203",
+        "inStock": true,
+        "externalSku": "sample-turtle-beach-stealth-600-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 7742,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8058,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7663,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "turtle-beach-stealth-600-walmart",
+        "productSlug": "turtle-beach-stealth-600",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 6900,
+        "seedPriceCents": 6900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Turtle%20Beach%20Stealth%20600%20Gen%203",
+        "inStock": true,
+        "externalSku": "sample-turtle-beach-stealth-600-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 6693,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6831,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7038,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "sony-inzone-h9",
+    "name": "Sony INZONE H9",
+    "brand": "Sony",
+    "category": "headset",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "bias": "cinematic",
+    "quality": 84,
+    "summary": "Over-ear wireless headset tuned for a wider soundstage. PS5 and PC only in this catalog. Not the under-$100 pick.",
+    "specs": [
+      {
+        "label": "Connection",
+        "value": "2.4 GHz / Bluetooth"
+      },
+      {
+        "label": "Platform",
+        "value": "PS5 and PC"
+      },
+      {
+        "label": "Noise cancelling",
+        "value": "Yes"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "sony-inzone-h9-amazon",
+        "productSlug": "sony-inzone-h9",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 19800,
+        "seedPriceCents": 19800,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Sony%20INZONE%20H9",
+        "inStock": true,
+        "externalSku": "sample-sony-inzone-h9-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 19998,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 20394,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19404,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19800,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-inzone-h9-bestbuy",
+        "productSlug": "sony-inzone-h9",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 22800,
+        "seedPriceCents": 22800,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Sony%20INZONE%20H9",
+        "inStock": true,
+        "externalSku": "sample-sony-inzone-h9-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 22116,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22572,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 23028,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 23484,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22800,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "sony-inzone-h9-walmart",
+        "productSlug": "sony-inzone-h9",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 18900,
+        "seedPriceCents": 18900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Sony%20INZONE%20H9",
+        "inStock": true,
+        "externalSku": "sample-sony-inzone-h9-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 19467,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18522,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18711,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19089,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "logitech-g-pro-x-2",
+    "name": "Logitech G Pro X 2 Lightspeed",
+    "brand": "Logitech",
+    "category": "headset",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 90,
+    "summary": "Top competitive headset in the sample catalog. Graphene drivers, wireless. Worth it when the headset allocation is large.",
+    "specs": [
+      {
+        "label": "Connection",
+        "value": "Lightspeed wireless"
+      },
+      {
+        "label": "Platform",
+        "value": "PS5, Xbox, PC"
+      },
+      {
+        "label": "Driver",
+        "value": "50 mm graphene"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "logitech-g-pro-x-2-amazon",
+        "productSlug": "logitech-g-pro-x-2",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 22900,
+        "seedPriceCents": 22900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Logitech%20G%20Pro%20X%202%20Lightspeed",
+        "inStock": true,
+        "externalSku": "sample-logitech-g-pro-x-2-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 22442,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 23358,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22213,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "logitech-g-pro-x-2-bestbuy",
+        "productSlug": "logitech-g-pro-x-2",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 24900,
+        "seedPriceCents": 24900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Logitech%20G%20Pro%20X%202%20Lightspeed",
+        "inStock": true,
+        "externalSku": "sample-logitech-g-pro-x-2-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 24153,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 24651,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 25149,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 25647,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 24900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "logitech-g-pro-x-2-target",
+        "productSlug": "logitech-g-pro-x-2",
+        "retailer": "target",
+        "program": "target",
+        "priceCents": 21900,
+        "seedPriceCents": 21900,
+        "currency": "USD",
+        "url": "https://www.target.com/s?searchTerm=Logitech%20G%20Pro%20X%202%20Lightspeed",
+        "inStock": true,
+        "externalSku": "sample-logitech-g-pro-x-2-target",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 22338,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 21900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 21462,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22557,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 21900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dualsense",
+    "name": "DualSense Wireless Controller",
+    "brand": "Sony",
+    "category": "controller",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 80,
+    "summary": "Standard PS5 pad. Adaptive triggers are the ones GTA 6 driving is likely to use. Also works on PC, not on Xbox.",
+    "specs": [
+      {
+        "label": "Platform",
+        "value": "PS5 and PC"
+      },
+      {
+        "label": "Features",
+        "value": "Adaptive triggers, haptics"
+      },
+      {
+        "label": "Battery",
+        "value": "Built-in"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "dualsense-amazon",
+        "productSlug": "dualsense",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 6900,
+        "seedPriceCents": 6900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=DualSense%20Wireless%20Controller",
+        "inStock": true,
+        "externalSku": "sample-dualsense-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 7107,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6969,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6831,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6693,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "dualsense-bestbuy",
+        "productSlug": "dualsense",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 6900,
+        "seedPriceCents": 6900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=DualSense%20Wireless%20Controller",
+        "inStock": true,
+        "externalSku": "sample-dualsense-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 6831,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6693,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7107,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6969,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "dualsense-walmart",
+        "productSlug": "dualsense",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 6400,
+        "seedPriceCents": 6400,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=DualSense%20Wireless%20Controller",
+        "inStock": true,
+        "externalSku": "sample-dualsense-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 6336,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6208,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6528,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6400,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6400,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "dualsense-edge",
+    "name": "DualSense Edge",
+    "brand": "Sony",
+    "category": "controller",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 90,
+    "summary": "PS5 pro controller with back buttons and replaceable sticks. A competitive upgrade, not required to play.",
+    "specs": [
+      {
+        "label": "Platform",
+        "value": "PS5 and PC"
+      },
+      {
+        "label": "Features",
+        "value": "Back buttons, swappable sticks"
+      },
+      {
+        "label": "Profile",
+        "value": "On-controller"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "dualsense-edge-amazon",
+        "productSlug": "dualsense-edge",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 19900,
+        "seedPriceCents": 19900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=DualSense%20Edge",
+        "inStock": true,
+        "externalSku": "sample-dualsense-edge-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19502,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 20497,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 20099,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "dualsense-edge-bestbuy",
+        "productSlug": "dualsense-edge",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 19900,
+        "seedPriceCents": 19900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=DualSense%20Edge",
+        "inStock": true,
+        "externalSku": "sample-dualsense-edge-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 20099,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19701,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19502,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 20497,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "dualsense-edge-target",
+        "productSlug": "dualsense-edge",
+        "retailer": "target",
+        "program": "target",
+        "priceCents": 18900,
+        "seedPriceCents": 18900,
+        "currency": "USD",
+        "url": "https://www.target.com/s?searchTerm=DualSense%20Edge",
+        "inStock": true,
+        "externalSku": "sample-dualsense-edge-target",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 19278,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18333,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18711,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19089,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "xbox-wireless",
+    "name": "Xbox Wireless Controller",
+    "brand": "Microsoft",
+    "category": "controller",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 78,
+    "summary": "Standard Xbox pad. The carry-over controller for a PC-later plan because it already works on PC and Xbox.",
+    "specs": [
+      {
+        "label": "Platform",
+        "value": "Xbox and PC"
+      },
+      {
+        "label": "Connection",
+        "value": "Xbox wireless / USB / Bluetooth"
+      },
+      {
+        "label": "Battery",
+        "value": "AA or play-and-charge kit"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "xbox-wireless-amazon",
+        "productSlug": "xbox-wireless",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 6400,
+        "seedPriceCents": 6400,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Xbox%20Wireless%20Controller",
+        "inStock": true,
+        "externalSku": "sample-xbox-wireless-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 6272,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6592,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6464,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6336,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6400,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-wireless-walmart",
+        "productSlug": "xbox-wireless",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 5900,
+        "seedPriceCents": 5900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Xbox%20Wireless%20Controller",
+        "inStock": true,
+        "externalSku": "sample-xbox-wireless-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 5723,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6018,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 5900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 5782,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 5900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-wireless-bestbuy",
+        "productSlug": "xbox-wireless",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 6400,
+        "seedPriceCents": 6400,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Xbox%20Wireless%20Controller",
+        "inStock": true,
+        "externalSku": "sample-xbox-wireless-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 6272,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6592,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6528,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6400,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 6400,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "xbox-elite-2",
+    "name": "Xbox Elite Wireless Controller Series 2",
+    "brand": "Microsoft",
+    "category": "controller",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "bias": "competitive",
+    "quality": 88,
+    "summary": "Xbox pro pad with paddles and swappable parts. Competitive upgrade for Series consoles and PC.",
+    "specs": [
+      {
+        "label": "Platform",
+        "value": "Xbox and PC"
+      },
+      {
+        "label": "Features",
+        "value": "Paddles, hair triggers, swappable sticks"
+      },
+      {
+        "label": "Battery",
+        "value": "Built-in"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "xbox-elite-2-amazon",
+        "productSlug": "xbox-elite-2",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 15900,
+        "seedPriceCents": 15900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Xbox%20Elite%20Wireless%20Controller%20Series%202",
+        "inStock": true,
+        "externalSku": "sample-xbox-elite-2-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 16218,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15741,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15423,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-elite-2-bestbuy",
+        "productSlug": "xbox-elite-2",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 17900,
+        "seedPriceCents": 17900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Xbox%20Elite%20Wireless%20Controller%20Series%202",
+        "inStock": true,
+        "externalSku": "sample-xbox-elite-2-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 17900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17542,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18437,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18079,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "xbox-elite-2-walmart",
+        "productSlug": "xbox-elite-2",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 14900,
+        "seedPriceCents": 14900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Xbox%20Elite%20Wireless%20Controller%20Series%202",
+        "inStock": true,
+        "externalSku": "sample-xbox-elite-2-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 15049,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14751,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14602,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15347,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "samsung-990-evo-2tb",
+    "name": "Samsung 990 EVO 2 TB",
+    "brand": "Samsung",
+    "category": "storage",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 86,
+    "summary": "2 TB NVMe SSD that fits the PS5 M.2 bay. GTA 6 will be a large install. This is the sample catalog's roomy PS5 drive.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "2 TB"
+      },
+      {
+        "label": "Form",
+        "value": "M.2 NVMe"
+      },
+      {
+        "label": "Fits",
+        "value": "PS5 internal bay and PC"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "samsung-990-evo-2tb-amazon",
+        "productSlug": "samsung-990-evo-2tb",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 14900,
+        "seedPriceCents": 14900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Samsung%20990%20EVO%202%20TB",
+        "inStock": true,
+        "externalSku": "sample-samsung-990-evo-2tb-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 14602,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15198,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14453,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "samsung-990-evo-2tb-bestbuy",
+        "productSlug": "samsung-990-evo-2tb",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 15900,
+        "seedPriceCents": 15900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung%20990%20EVO%202%20TB",
+        "inStock": true,
+        "externalSku": "sample-samsung-990-evo-2tb-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 16218,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15423,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15741,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16059,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "samsung-990-evo-2tb-walmart",
+        "productSlug": "samsung-990-evo-2tb",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 13900,
+        "seedPriceCents": 13900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Samsung%20990%20EVO%202%20TB",
+        "inStock": true,
+        "externalSku": "sample-samsung-990-evo-2tb-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 14039,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14317,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13483,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13761,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "wd-black-sn850x-1tb",
+    "name": "WD_BLACK SN850X 1 TB",
+    "brand": "Western Digital",
+    "category": "storage",
+    "platforms": [
+      "ps5",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 84,
+    "summary": "1 TB NVMe with a heatsink option commonly used in PS5. The cheaper internal drive in the sample catalog.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "1 TB"
+      },
+      {
+        "label": "Form",
+        "value": "M.2 NVMe"
+      },
+      {
+        "label": "Fits",
+        "value": "PS5 internal bay and PC"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "wd-black-sn850x-1tb-amazon",
+        "productSlug": "wd-black-sn850x-1tb",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 8900,
+        "seedPriceCents": 8900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=WD_BLACK%20SN850X%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-wd-black-sn850x-1tb-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 8633,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9078,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8989,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8811,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-black-sn850x-1tb-bestbuy",
+        "productSlug": "wd-black-sn850x-1tb",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 9900,
+        "seedPriceCents": 9900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=WD_BLACK%20SN850X%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-wd-black-sn850x-1tb-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 10098,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9900,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9702,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 10197,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "wd-black-sn850x-1tb-walmart",
+        "productSlug": "wd-black-sn850x-1tb",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 7900,
+        "seedPriceCents": 7900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=WD_BLACK%20SN850X%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-wd-black-sn850x-1tb-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 7742,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8137,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8058,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 7900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "seagate-xbox-card-1tb",
+    "name": "Seagate Xbox Storage Expansion Card 1 TB",
+    "brand": "Seagate",
+    "category": "storage",
+    "platforms": [
+      "xbox"
+    ],
+    "bias": "neutral",
+    "quality": 80,
+    "summary": "Official-style expansion card for Xbox Series. Native games run from the card. A USB SSD does not do that on Series consoles.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "1 TB"
+      },
+      {
+        "label": "Form",
+        "value": "Xbox expansion card"
+      },
+      {
+        "label": "Fits",
+        "value": "Xbox Series only"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "seagate-xbox-card-1tb-amazon",
+        "productSlug": "seagate-xbox-card-1tb",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 14900,
+        "seedPriceCents": 14900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Seagate%20Xbox%20Storage%20Expansion%20Card%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-seagate-xbox-card-1tb-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 15049,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15347,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14602,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "seagate-xbox-card-1tb-bestbuy",
+        "productSlug": "seagate-xbox-card-1tb",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 15900,
+        "seedPriceCents": 15900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Seagate%20Xbox%20Storage%20Expansion%20Card%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-seagate-xbox-card-1tb-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 15423,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15741,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16059,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 16377,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 15900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "seagate-xbox-card-1tb-walmart",
+        "productSlug": "seagate-xbox-card-1tb",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 13900,
+        "seedPriceCents": 13900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Seagate%20Xbox%20Storage%20Expansion%20Card%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-seagate-xbox-card-1tb-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 14317,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13622,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13761,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 14039,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 13900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "samsung-t7-1tb",
+    "name": "Samsung T7 1 TB",
+    "brand": "Samsung",
+    "category": "storage",
+    "platforms": [
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 58,
+    "summary": "Portable USB SSD. Fine for PC files and for Xbox media. PS5 cannot launch native PS5 games from USB, so this drive is not offered for PS5.",
+    "specs": [
+      {
+        "label": "Capacity",
+        "value": "1 TB"
+      },
+      {
+        "label": "Form",
+        "value": "USB portable SSD"
+      },
+      {
+        "label": "Fits",
+        "value": "Xbox storage of compatible games, and PC"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "samsung-t7-1tb-amazon",
+        "productSlug": "samsung-t7-1tb",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 9900,
+        "seedPriceCents": 9900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Samsung%20T7%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-samsung-t7-1tb-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 10197,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9999,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9801,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9603,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "samsung-t7-1tb-bestbuy",
+        "productSlug": "samsung-t7-1tb",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 10900,
+        "seedPriceCents": 10900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Samsung%20T7%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-samsung-t7-1tb-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 10900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 10682,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 10573,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 11118,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 10900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "samsung-t7-1tb-walmart",
+        "productSlug": "samsung-t7-1tb",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 8900,
+        "seedPriceCents": 8900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=Samsung%20T7%201%20TB",
+        "inStock": true,
+        "externalSku": "sample-samsung-t7-1tb-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 8989,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8811,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8633,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 9078,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 8900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "secretlab-titan",
+    "name": "Secretlab Titan Evo",
+    "brand": "Secretlab",
+    "category": "chair",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 86,
+    "summary": "Gaming chair in the sample catalog. Only recommended when you opt into a chair and the leftover budget can carry it.",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Gaming chair"
+      },
+      {
+        "label": "Size",
+        "value": "Regular or XL, check the listing"
+      },
+      {
+        "label": "Optional",
+        "value": "Off unless you ask for a chair"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "secretlab-titan-amazon",
+        "productSlug": "secretlab-titan",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 54900,
+        "seedPriceCents": 54900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=Secretlab%20Titan%20Evo",
+        "inStock": true,
+        "externalSku": "sample-secretlab-titan-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 54900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 53802,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 56547,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 55449,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 54900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "secretlab-titan-bestbuy",
+        "productSlug": "secretlab-titan",
+        "retailer": "bestbuy",
+        "program": "bestbuy",
+        "priceCents": 54900,
+        "seedPriceCents": 54900,
+        "currency": "USD",
+        "url": "https://www.bestbuy.com/site/searchpage.jsp?st=Secretlab%20Titan%20Evo",
+        "inStock": true,
+        "externalSku": "sample-secretlab-titan-bestbuy",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 55449,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 54351,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 53802,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 56547,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 54900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ikea-markus",
+    "name": "IKEA MARKUS",
+    "brand": "IKEA",
+    "category": "chair",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 62,
+    "summary": "Basic office chair. The cheaper chair in the sample catalog for long sessions without spending flagship money.",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Office chair"
+      },
+      {
+        "label": "Adjust",
+        "value": "Height and tilt"
+      },
+      {
+        "label": "Optional",
+        "value": "Off unless you ask for a chair"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "ikea-markus-amazon",
+        "productSlug": "ikea-markus",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 22900,
+        "seedPriceCents": 22900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=IKEA%20MARKUS",
+        "inStock": true,
+        "externalSku": "sample-ikea-markus-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 22213,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 23358,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22900,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22442,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 22900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "ikea-markus-walmart",
+        "productSlug": "ikea-markus",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 19900,
+        "seedPriceCents": 19900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=IKEA%20MARKUS",
+        "inStock": true,
+        "externalSku": "sample-ikea-markus-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19502,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 20497,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 20099,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "flexispot-e7",
+    "name": "FlexiSpot E7",
+    "brand": "FlexiSpot",
+    "category": "desk",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 80,
+    "summary": "Standing desk frame in the sample catalog. Optional. A monitor arms onto this more cleanly than a 55-inch TV does.",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Electric standing desk"
+      },
+      {
+        "label": "Top",
+        "value": "Sold separately in many listings"
+      },
+      {
+        "label": "Optional",
+        "value": "Off unless you ask for a desk"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "flexispot-e7-amazon",
+        "productSlug": "flexispot-e7",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 39900,
+        "seedPriceCents": 39900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=FlexiSpot%20E7",
+        "inStock": true,
+        "externalSku": "sample-flexispot-e7-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 40698,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 38703,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 39501,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 40299,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 39900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "flexispot-e7-walmart",
+        "productSlug": "flexispot-e7",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 42900,
+        "seedPriceCents": 42900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=FlexiSpot%20E7",
+        "inStock": true,
+        "externalSku": "sample-flexispot-e7-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 43758,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 41613,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 42042,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 42900,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 42900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "ikea-lagkapten-alex",
+    "name": "IKEA LAGKAPTEN / ALEX",
+    "brand": "IKEA",
+    "category": "desk",
+    "platforms": [
+      "ps5",
+      "xbox",
+      "pc"
+    ],
+    "bias": "neutral",
+    "quality": 58,
+    "summary": "Simple desk top plus drawer unit. The budget desk in the sample catalog.",
+    "specs": [
+      {
+        "label": "Type",
+        "value": "Fixed desk"
+      },
+      {
+        "label": "Pieces",
+        "value": "Tabletop and drawer unit"
+      },
+      {
+        "label": "Optional",
+        "value": "Off unless you ask for a desk"
+      }
+    ],
+    "sampleNote": "Sample price for this demo. Not a live retail quote.",
+    "offers": [
+      {
+        "id": "ikea-lagkapten-alex-amazon",
+        "productSlug": "ikea-lagkapten-alex",
+        "retailer": "amazon",
+        "program": "amazon",
+        "priceCents": 18900,
+        "seedPriceCents": 18900,
+        "currency": "USD",
+        "url": "https://www.amazon.com/s?k=IKEA%20LAGKAPTEN%20%2F%20ALEX",
+        "inStock": true,
+        "externalSku": "sample-ikea-lagkapten-alex-amazon",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 18711,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19089,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 19467,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18522,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      },
+      {
+        "id": "ikea-lagkapten-alex-walmart",
+        "productSlug": "ikea-lagkapten-alex",
+        "retailer": "walmart",
+        "program": "walmart",
+        "priceCents": 17900,
+        "seedPriceCents": 17900,
+        "currency": "USD",
+        "url": "https://www.walmart.com/search?q=IKEA%20LAGKAPTEN%20%2F%20ALEX",
+        "inStock": true,
+        "externalSku": "sample-ikea-lagkapten-alex-walmart",
+        "lastCheckedAt": "2026-11-18T15:00:00.000Z",
+        "history": [
+          {
+            "priceCents": 17721,
+            "recordedAt": "2026-10-21T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18079,
+            "recordedAt": "2026-10-28T15:00:00.000Z"
+          },
+          {
+            "priceCents": 18258,
+            "recordedAt": "2026-11-04T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17363,
+            "recordedAt": "2026-11-11T15:00:00.000Z"
+          },
+          {
+            "priceCents": 17900,
+            "recordedAt": "2026-11-18T15:00:00.000Z"
+          }
+        ]
+      }
+    ]
+  }
+]
