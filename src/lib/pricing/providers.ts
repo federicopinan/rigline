@@ -1,3 +1,4 @@
+import "server-only";
 import type { Offer } from "@/lib/types";
 
 export type PriceQuote = {

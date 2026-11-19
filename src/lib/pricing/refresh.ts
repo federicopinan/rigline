@@ -1,3 +1,4 @@
+import "server-only";
 import { revalidateTag } from "next/cache";
 import { readCatalog, persistQuotes } from "@/lib/catalog";
 import {

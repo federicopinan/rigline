@@ -1,3 +1,4 @@
+import "server-only";
 import { cacheLife, cacheTag } from "next/cache";
 import { createClient, type SupabaseClient } from "@supabase/supabase-js";
 import { mkdirSync, readFileSync, appendFileSync, writeFileSync } from "node:fs";
